@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\denni\\Downloads\\dev\\github\\data_structures_algorithms\\coding_challenges\\Maximum Values of a Range of Minimum Sets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7AEAD1C-1836-4D4F-8118-A50668055D02}|Maximum Values of a Range of Minimum Sets\\Maximum Values of a Range of Minimum Sets.pyproj|C:\\Users\\denni\\Downloads\\dev\\github\\data_structures_algorithms\\coding_challenges\\Maximum Values of a Range of Minimum Sets\\Maximum Values of a Range of Minimum Sets\\Maximum_Values_of_a_Range_of_Minimum_Sets.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E7AEAD1C-1836-4D4F-8118-A50668055D02}|Maximum Values of a Range of Minimum Sets\\Maximum Values of a Range of Minimum Sets.pyproj|solutionrelative:Maximum Values of a Range of Minimum Sets\\Maximum_Values_of_a_Range_of_Minimum_Sets.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{08a1bf1d-7967-4afc-8253-1790862ab8c9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Maximum_Values_of_a_Range_of_Minimum_Sets.py",
+              "DocumentMoniker": "C:\\Users\\denni\\Downloads\\dev\\github\\data_structures_algorithms\\coding_challenges\\Maximum Values of a Range of Minimum Sets\\Maximum Values of a Range of Minimum Sets\\Maximum_Values_of_a_Range_of_Minimum_Sets.py",
+              "RelativeDocumentMoniker": "Maximum Values of a Range of Minimum Sets\\Maximum_Values_of_a_Range_of_Minimum_Sets.py",
+              "ToolTip": "C:\\Users\\denni\\Downloads\\dev\\github\\data_structures_algorithms\\coding_challenges\\Maximum Values of a Range of Minimum Sets\\Maximum Values of a Range of Minimum Sets\\Maximum_Values_of_a_Range_of_Minimum_Sets.py",
+              "RelativeToolTip": "Maximum Values of a Range of Minimum Sets\\Maximum_Values_of_a_Range_of_Minimum_Sets.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-12-14T18:48:39.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
