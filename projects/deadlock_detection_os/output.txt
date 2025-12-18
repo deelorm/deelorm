@@ -1,0 +1,27 @@
+INFO:__main__:
+**************************************************************************************************************************
+RESOURCE ALLOCATION GRAPH (RAG) with DEADLOCK OR CYCLIC DETECTOR 
+File name: output.txt
+File type: Log file
+File path: .\output.txt
+**************************************************************************************************************************
+                 
+INFO:__main__:Init deadlock check.
+INFO:__main__: EXECUTION COMPLETED: No deadlock encountered
+INFO:__main__:--------------------------------------------------------------------------------------------------------------
+INFO:__main__: Process 1 needs resource 1 - Resource 1 is allocated to process 1.
+INFO:__main__: Process 2 needs resource 2 - Resource 2 is allocated to process 2.
+INFO:__main__: Process 3 needs resource 6 - Resource 6 is allocated to process 3.
+INFO:__main__: Process 2 needs resource 6 - Process 2 must wait.
+INFO:__main__: Process 4 needs resource 3 - Resource 3 is allocated to process 4.
+INFO:__main__: Process 5 needs resource 1 - Process 5 must wait.
+INFO:__main__: Process 1 releases resource 1 - Resource 1 is allocated to process 5.
+INFO:__main__: Process 3 needs resource 3 - Process 3 must wait.
+INFO:__main__: Process 5 releases resource 1 - Resource 1 is now free.
+INFO:__main__: Process 4 needs resource 2 - Process 4 must wait.
+INFO:__main__: Process 1 needs resource 4 - Resource 4 is allocated to process 1.
+INFO:__main__: Process 1 needs resource 5 - Resource 5 is allocated to process 1.
+INFO:__main__: Process 1 releases resource 4 - Resource 4 is now free.
+INFO:__main__: DEADLOCK DETECTED: Process(es) 2, 4, 3 and Resource(s) 6,3,2 are found in a cycle
+INFO:__main__: EXECUTION COMPLETED: No deadlock encountered
+INFO:__main__:--------------------------------------------------------------------------------------------------------------
