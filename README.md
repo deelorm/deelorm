@@ -6,7 +6,7 @@
 
 ---------------------------Python----------Algorithms-------------------------Javascript----------ML----------------
 
-I am a Dennis Elorm Fleku, Software Engineer, with 5+ years of experience in building, maintaining and deploying industry grade systems in big Tech. My interests lies in areas of web application design (full-stack), machine learning and computer networks. 
+I am a Dennis Elorm Fleku, Software (Design) Engineer, with experience in building, maintaining and deploying industry grade systems. My interests lies in areas of electronic prototyping, application development, database systems, machine learning and computer networks. 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 - This repository contains referenceable materials with the following content:
 
@@ -15,7 +15,7 @@ I am a Dennis Elorm Fleku, Software Engineer, with 5+ years of experience in bui
   \# Machine Learning (ML): Python, PyTorch.
 
 \* Author: DeeLorm (Lorm)
-\* Email: dee.lorm@outlook.com                     
+\* Email: dee.lorm@outlook.com  
 \* Git URL: https://github.com/deelorm/deelorm.git 
 
 
